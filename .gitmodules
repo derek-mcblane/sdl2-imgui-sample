@@ -1,0 +1,12 @@
+[submodule "imgui"]
+	path = imgui
+	url = git@github.com:ocornut/imgui.git
+[submodule "SDLWrap"]
+	path = SDLWrap
+	url = git@github.com:derek-mcblane/SDLWrap.git
+[submodule "external/imgui"]
+	path = external/imgui
+	url = git@github.com:ocornut/imgui.git
+[submodule "external/SDLWrap"]
+	path = external/SDLWrap
+	url = git@github.com:derek-mcblane/SDLWrap
