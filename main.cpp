@@ -5,7 +5,7 @@
 #include "backends/imgui_impl_sdlrenderer2.h"
 #include "imgui.h"
 
-int main()
+int main(int argc, char *argv[])
 {
     sdl::Context global_setup{sdl::InitFlags::Video};
     sdl::image::Context global_image_setup{sdl::image::InitFlags::png};
